@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qgis,python,r,pandas,streamlit,git,github,docker,postgresql,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=qgis,python,pycharm,r,pandas,unity,vscodium,git,github,docker,postgresql,js,HTML,CSS,figma&perline=9" />
   </a>
 </p>
 
